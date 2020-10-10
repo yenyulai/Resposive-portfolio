@@ -9,37 +9,9 @@ footer {
     text-align: center;
 }
 
-
-
-
 .container{
     margin-left: 20px;
-
-   
-    
-}
-
-.main {
-    padding: 7% 30% 10% 5%;
-}
-
-.maincolumn{
-    /* colour for column */
-    background-color: white;
-
-}
-
-.test2 {
-    width: 350px;
-    height: 350px;
-    margin: 10px;
-    padding: 10px;
-}
-
-
-.formdm {
-    width: 70%;
-    padding: 50px;
+ 
 }
 
 .left {
@@ -47,14 +19,37 @@ footer {
     margin: 10px;
 }
 
+.main {
+    padding: 7% 30% 10% 5%;
+}
+
+.maincolumn{
+    /* background colour for column */
+    background-color: white;
+
+}
+
 #name {
     background-color: #26a69a ;
+    color: whitesmoke;
     margin: 1rem;
 }
 
-/* Contact css */
+/* style the portfolio page */
+.portfolioicon {
+    width: 350px;
+    height: 350px;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* Style Contact page */
 
 .btn{
     margin-top: 20px;
 }
 
+.formdm {
+    width: 70%;
+    padding: 50px;
+}
