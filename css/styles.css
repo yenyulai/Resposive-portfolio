@@ -9,10 +9,6 @@ footer {
     text-align: center;
 }
 
-.container{
-    margin-left: 20px;
- 
-}
 
 .left {
     float: left;
@@ -53,3 +49,9 @@ footer {
     /* width: 70%; */
     padding: 30px;
 }
+
+@media only screen and (max-width: 400px) {
+    .main {
+        padding: 10px 10px;
+    }
+  }
