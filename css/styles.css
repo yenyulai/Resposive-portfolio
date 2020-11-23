@@ -5,8 +5,11 @@ h1 {
 }
 
 footer {
-    padding: 2%;
+    padding: 7%;
     text-align: center;
+    background: #81ccfb;
+
+
 }
 
 
@@ -42,12 +45,18 @@ footer {
 /* Style Contact page */
 
 .btn{
-    margin-top: 20px;
+    margin: 0px;
+    padding: 0PX;
+    border: 0;
 }
 
 .formdm {
     /* width: 70%; */
     padding: 30px;
+}
+
+.footer-icon {
+    margin: 20px 10px;
 }
 
 @media only screen and (max-width: 400px) {
