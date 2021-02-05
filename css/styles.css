@@ -5,7 +5,7 @@ h1 {
 }
 
 footer {
-    padding: 7%;
+    padding: 2%;
     text-align: center;
     background: #81ccfb;
 
@@ -19,12 +19,14 @@ footer {
 }
 
 .main {
-    padding: 7% 30% 10% 5%;
+    padding: 10% 10% 10% 10%;
 }
 
 .maincolumn{
     /* background colour for column */
     background-color: white;
+    padding: ;
+    
 
 }
 
